@@ -8,6 +8,8 @@ In particular it should enable usage for programming exercises like 'Advent of C
 
 ## File IO
 
+## CLI
+
 ## Arithmetic Features
 
 ## String Manipulations
