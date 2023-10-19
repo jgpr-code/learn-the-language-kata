@@ -14,6 +14,10 @@ In particular it should enable usage for programming exercises like 'Advent of C
 
 ## String Manipulations
 
+## Standard Library
+
+e.g. sorting custom data types
+
 ## Regex
 
 ## Domain Modelling
