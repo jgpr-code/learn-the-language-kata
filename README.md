@@ -16,7 +16,18 @@ In particular it should enable usage for programming exercises like 'Advent of C
 
 ## Standard Library
 
-e.g. sorting custom data types
+Algorithms
+
+- sort
+- search
+- ...
+
+Data Structures
+
+- list
+- vector
+- set
+- map
 
 ## Regex
 
