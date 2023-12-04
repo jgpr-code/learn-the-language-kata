@@ -8,17 +8,27 @@ In particular it should enable usage for programming exercises like 'Advent of C
 
 ## File IO
 
+- read/write
+
 ## CLI
 
 ## Arithmetic Features
 
 ## String Manipulations
 
+- splitting
+- merging
+- replacing
+- searching
+- ...
+
+## Parsing
+
 ## Standard Library
 
 Algorithms
 
-- sort
+- sort (with custom elements)
 - search
 - ...
 
@@ -28,17 +38,57 @@ Data Structures
 - vector
 - set
 - map
+- ...
 
 ## Regex
 
 ## Domain Modelling
 
-## Graph Algorithms
+## Graph Datastructures & Algorithms
+
+### Datastructures
+
+- adjacency matrix
+- adjacency list
+- edge list
+- ...
+
+### Algorithms
+
+- flood fill
+- state machine
+- dfs/bfs
+- ...
 
 ## Modularity/Code Reuse
 
+- use of fully external libraries
+- own external library
+- modularity inside the project itself
+- ...
+
 ## Unit Testing
+
+- special mechanism for unit tests present?
+- best practices
+- write own unit test
+- ...
 
 ## Performance Measuring
 
+- special mechanism for performance measuring present?
+- best practices
+- write own performance measurement code
+- ...
+
 ## Error Handling
+
+## Further Topics
+
+More optional further topics that are not relevant for simple coding katas.
+
+### Web
+
+### UI
+
+### Databases
